@@ -1,4 +1,4 @@
-﻿# A login page using Pure HTML and CSS
+﻿# A login form using Pure HTML and CSS
 
 👉Created a login page using HTML and CSS
 
